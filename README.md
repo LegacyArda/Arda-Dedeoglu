@@ -3,7 +3,8 @@
 #### Junior Pomputer Programmer,Software Programmer and IT Personal
 
 
-I am a second year university student. I share all the software I can create here.
+I am a Computer Programming graduate. I share all the software I develop here.
+
 
 
 Skills: Python, C#, C, JavaScript,HTML5, CSS3, Web Application Architecture, SQL
