@@ -1,6 +1,6 @@
 # Arda-Dedeoglu
 ### Hi there 👋, Arda Dedeoğlu
-#### Computer programming student and Software Programmer
+#### Junior Pomputer Programmer,Software Programmer and IT Personal
 
 
 I am a second year university student. I share all the software I can create here.
